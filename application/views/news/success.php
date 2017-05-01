@@ -1,0 +1,1 @@
+<h2>Form submitted! Thanks!</h2>
